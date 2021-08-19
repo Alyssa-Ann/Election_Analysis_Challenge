@@ -6,11 +6,11 @@ Analyzing election results for a Congressional District in Colorado using Python
 2. Get a complete list of candidates who recieved votes.
 3. Calculate the total number of votes each candidate won
 4. Calculate the percetage of votes each candidate won
-5.Determine the winer of the election based on popular vote. 
+5. Determine the winer of the election based on popular vote. 
 
 ## Resources
--Data source: election_results.csv
--Software: Python 3.7.6, Visual Studio Code 1.38.1
+Data source: election_results.csv
+Software: Python 3.7.6, Visual Studio Code 1.38.1
 
 ## Summary 
 The analysis of the election show that:
@@ -42,9 +42,9 @@ In addition to:
 5. Determine the winer of the election based on popular vote.  
 
 ## Resources
--Data source: election_results.csv
--Code source: PyPoll_Challenge_Starter_Code.py
--Software: Python 3.7.6, Visual Studio Code 1.38.1
+Data source: election_results.csv
+Code source: PyPoll_Challenge_Starter_Code.py
+Software: Python 3.7.6, Visual Studio Code 1.38.1
 
 ## Results
 Total Votes in Congressional Election:
